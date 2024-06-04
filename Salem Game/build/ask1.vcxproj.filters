@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mmano\OneDrive\Υπολογιστής\PANEPISTEMION\hy150\ask1_paradoteo\ask1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mmano\OneDrive\Υπολογιστής\PANEPISTEMION\hy150\ask1_paradoteo\rounds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mmano\OneDrive\Υπολογιστής\PANEPISTEMION\hy150\ask1_paradoteo\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E69EE688-1CFB-306B-833A-BC03AC7F922B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

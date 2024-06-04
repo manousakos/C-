@@ -1,0 +1,13 @@
+project( askisi1 )
+
+set(CMAKE_CXX_STANDARD 17)
+
+cmake_minimum_required(VERSION 3.1.4)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS ON)
+
+add_executable( ask1 ask1.cpp rounds.cpp)
+
+target_compile_features( ask1 PRIVATE cxx_std_20)
+
+target_include_directories( ask1 PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include )
